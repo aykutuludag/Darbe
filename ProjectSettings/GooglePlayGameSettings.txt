@@ -1,0 +1,12 @@
+lastUpgrade=00927
+proj.AppId=477842171212
+and.BundleId=org.uusoftware.darbe
+proj.classDir=Assets
+proj.ConstantsClassName=Constants
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e477842171212%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3eorg.uusoftware.darbe%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_halk_gcne_katldn%22%3eCgkIzMrzjPQNEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_halk_kahraman%22%3eCgkIzMrzjPQNEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_tank_avcs%22%3eCgkIzMrzjPQNEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_hh%22%3eCgkIzMrzjPQNEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_demokrasi_kahraman%22%3eCgkIzMrzjPQNEAIQDQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_demokrasi_ehidi%22%3eCgkIzMrzjPQNEAIQDw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_kimyager%22%3eCgkIzMrzjPQNEAIQEQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_en_iyiler%22%3eCgkIzMrzjPQNEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d
+and.ClientId=
+android.SetupDone=true
+ios.ClientId=477842171212-4dobj27n81q15ersk4ru6mn9cgscfnju.apps.googleusercontent.com
+ios.ResourceData=%23define+CLIENT_ID+%40%22477842171212-4dobj27n81q15ersk4ru6mn9cgscfnju.apps.googleusercontent.com%22%0a%23define+ACH_HALK_GCNE_KATILDIN+%40%22CgkIzMrzjPQNEAIQCQ%22%0d%0a%23define+ACH_HALK_KAHRAMANI+%40%22CgkIzMrzjPQNEAIQCg%22%0d%0a%23define+ACH_TANK_AVCISI+%40%22CgkIzMrzjPQNEAIQCw%22%0d%0a%23define+ACH_HH+%40%22CgkIzMrzjPQNEAIQDA%22%0d%0a%23define+ACH_DEMOKRASI_KAHRAMANI+%40%22CgkIzMrzjPQNEAIQDQ%22%0d%0a%23define+ACH_DEMOKRASI_EHIDI+%40%22CgkIzMrzjPQNEAIQDw%22%0d%0a%23define+ACH_KIMYAGER+%40%22CgkIzMrzjPQNEAIQEQ%22%0d%0a%23define+LEAD_EN_IYILER+%40%22CgkIzMrzjPQNEAIQBg%22%0d%0a%0a
+ios.BundleId=org.uusoftware.darbe
+ios.SetupDone=true
